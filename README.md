@@ -1,8 +1,8 @@
 # Introduction-to-Image-Processing
-Name			: Liew Yih Seng
-Student ID		: 20090325
-Module			: COMP2032 - Introduction to Image Processing
-Module Convenor		: Dr. Amr Ahmed
+## Name			: Liew Yih Seng
+## Student ID		: 20090325
+## Module			: COMP2032 - Introduction to Image Processing
+## Module Convenor		: Dr. Amr Ahmed
 
 
 To run the Matlab Code:
