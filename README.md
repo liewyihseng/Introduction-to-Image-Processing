@@ -14,7 +14,7 @@ To run the Matlab Code:
 		
 			[im_output, numNucleus] = extract_analyse_nucleus_hsv("StackNinja1.bmp");
 
-	   where it will generate two variables in the workspace, im_output representing the
+	  where it will generate two variables in the workspace, im_output representing the
 	   Final Binary Image Marking Regions Corresponding to Nuclei and numNucleus representing
 	   the total count of nuclei detected within the input image.
 		
@@ -26,7 +26,7 @@ To run the Matlab Code:
 	   
 			[im_output1, number_of_nucleus_hsv_1] = extract_analyse_nucleus_hsv("StackNinja1.bmp");
 	   
-	   The line above is supplied with input argument of image "StackNinja1.bmp", hence resulting 
+	  The line above is supplied with input argument of image "StackNinja1.bmp", hence resulting 
 	   in variables being tagged with "1" behind every output of this function call within the
 	   workspace. This concept applies to other images and their outputs also.
 	   
