@@ -13,7 +13,7 @@ To run the Matlab Code:
 	   file extension being the input argument in the Command Window. For instance:
 		
 			[im_output, numNucleus] = extract_analyse_nucleus_hsv("StackNinja1.bmp");
-			
+
 	   where it will generate two variables in the workspace, im_output representing the
 	   Final Binary Image Marking Regions Corresponding to Nuclei and numNucleus representing
 	   the total count of nuclei detected within the input image.
